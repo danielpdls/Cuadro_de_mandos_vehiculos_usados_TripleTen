@@ -2,6 +2,10 @@
 
 Interactive dashboard developed with **Streamlit** to explore a dataset of used vehicles in the United States.
 
+[Live demo](https://vehicles-dashboard-danielpdls.streamlit.app/)
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://vehicles-dashboard-danielpdls.streamlit.app/)
+
 The goal of this project is to create a simple and accessible web application that allows users to visually analyze vehicle characteristics such as price, mileage, model year, condition, and vehicle type through interactive charts.
 
 ---
